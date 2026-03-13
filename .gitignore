@@ -1,0 +1,6 @@
+# Ignore model weights
+*.pth
+
+# Ignore other temporary files
+__pycache__/
+*.pyc
