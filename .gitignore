@@ -4,3 +4,7 @@
 # Ignore other temporary files
 __pycache__/
 *.pyc
+
+/venv/
+
+*.local.*
